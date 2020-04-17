@@ -1,0 +1,17 @@
+{
+"companyName": "Approximates",
+"productName": "dotBloch: quantum bit simulator",
+"productVersion": "1.2.0",
+"dataUrl": "Approximates.github.io.data.unityweb",
+"asmCodeUrl": "Approximates.github.io.asm.code.unityweb",
+"asmMemoryUrl": "Approximates.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "Approximates.github.io.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
