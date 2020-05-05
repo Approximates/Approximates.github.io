@@ -1,7 +1,7 @@
 {
 "companyName": "Approximates",
 "productName": "dotBloch: quantum bit simulator",
-"productVersion": "1.2.0",
+"productVersion": "1.3.0",
 "dataUrl": "Approximates.github.io.data.unityweb",
 "asmCodeUrl": "Approximates.github.io.asm.code.unityweb",
 "asmMemoryUrl": "Approximates.github.io.asm.memory.unityweb",
